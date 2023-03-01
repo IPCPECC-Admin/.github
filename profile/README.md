@@ -1,13 +1,13 @@
 <div align="center">
-<img src="https://github.com/IPCPECC-Admin/.github/blob/main/image_scs/title.jpg" ></div>
-<img src="https://github.com/IPCPECC-Admin/.github/blob/main/image_scs/xingzai.png" ></div>
-<img src="https://github.com/IPCPECC-Admin/.github/blob/main/image_scs/Xray.png" ></div>
-<img src="https://github.com/IPCPECC-Admin/.github/blob/main/image_scs/car.png" ></div>
-<img src="https://github.com/IPCPECC-Admin/.github/blob/main/image_scs/CIM.png" ></div>
-<img src="https://github.com/IPCPECC-Admin/.github/blob/main/image_scs/guangdian.png" ></div>
-<img src="https://github.com/IPCPECC-Admin/.github/blob/main/image_scs/jianzai.png" ></div>
-<img src="https://github.com/IPCPECC-Admin/.github/blob/main/image_scs/leinao.png" ></div>
-<img src="https://github.com/IPCPECC-Admin/.github/blob/main/image_scs/liangzidian.png" ></div>
-<img src="https://github.com/IPCPECC-Admin/.github/blob/main/image_scs/autocar.png" ></div>
+<img src="https://github.com/IPCPECC-Admin/image_scs/blob/main/title.jpg" ></div>
+<img src="https://github.com/IPCPECC-Admin/image_scs/blob/main/xingzai.png" ></div>
+<img src="https://github.com/IPCPECC-Admin/image_scs/blob/main/Xray.png" ></div>
+<img src="https://github.com/IPCPECC-Admin/image_scs/blob/main/car.png" ></div>
+<img src="https://github.com/IPCPECC-Admin/image_scs/blob/main/CIM.png" ></div>
+<img src="https://github.com/IPCPECC-Admin/image_scs/blob/main/guangdian.png" ></div>
+<img src="https://github.com/IPCPECC-Admin/image_scs/blob/main/jianzai.png" ></div>
+<img src="https://github.com/IPCPECC-Admin/image_scs/blob/main/leinao.png" ></div>
+<img src="https://github.com/IPCPECC-Admin/image_scs/blob/main/liangzidian.png" ></div>
+<img src="https://github.com/IPCPECC-Admin/image_scs/blob/main/autocar.png" ></div>
 </div>
 
